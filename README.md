@@ -36,9 +36,9 @@
 |-------|----------------------|
 | ![Login](docs/login.png) | ![Palavra de segurança](docs/palavra-seguranca.png) |
 
-| Calculadora |
-|-------------|
-| ![Calculadora](docs/calculadora.png) |
+| Calculadora | Laudo em PDF |
+|-------------|--------------|
+| ![Calculadora](docs/calculadora.png) | ![Laudo de análise](docs/laudo.png) |
 
 ## Tecnologias
 
@@ -101,9 +101,9 @@ Use os valores definidos em `SEED_*` no seu `.env` (por padrão, os do `.env.exa
 
 | Perfil | E-mail | Senha | Palavra de segurança |
 |--------|--------|-------|----------------------|
-| Analista | analista@exemplo.com | teste123456 | palavra-teste |
+| Analista | analista@gmail.com | 123456 | teste |
 
-O perfil Admin também é criado pelo seed (`admin@exemplo.com`), mas ainda não há painel administrativo na interface.
+O perfil Admin também é criado pelo seed (`admin@gmail.com`), mas ainda não há painel administrativo na interface.
 
 ## Atenção ao seed
 
